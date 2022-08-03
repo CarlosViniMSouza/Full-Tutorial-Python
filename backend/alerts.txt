@@ -1,1 +1,8 @@
 Here; I will make 3 projects with 3 frameworks web python.
+
+For install each lib, follow the commands (inside of venv):
+
+- Django: pip install Django
+- Django-Rest: pip install djangorestframework
+- Flask: pip install Flask
+- FastAPI: pip install "fastapi[all]"

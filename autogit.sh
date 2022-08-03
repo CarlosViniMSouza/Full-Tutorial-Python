@@ -1,4 +1,4 @@
 git add .
-git commit -m "frontend -> hello world added"
+git commit -m "frontend -> frameworks installed"
 git push
 git status
