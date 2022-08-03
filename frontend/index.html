@@ -1,0 +1,17 @@
+<!DOCTYPE HTML>
+<html>
+<head>
+    <link rel="stylesheet" href="https://pyscript.net/latest/pyscript.css" />
+    <link rel="stylesheet" href="static/style.css" />
+    <script defer src="https://pyscript.net/latest/pyscript.js"></script>
+</head>
+<body>
+    <h2> Hello My Brother, PyScript running ... </h2>
+    <p> Your watch is at: </p>
+    <py-script>
+        from datetime import datetime
+        moment = datetime.now()
+        moment.strftime("%m/%d/%Y, %H:%M:%S")
+    </py-script>
+</body>
+</html>

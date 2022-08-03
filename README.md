@@ -105,6 +105,7 @@ In this repository, I stored all my knowledge in Python language. Allow below wh
 ```
 - Frameworks Web 🌐
 - Django 🧑‍💻 💼
+- Django-Rest 🕹
 - Flask 🌶
 - FastAPI ⚡️
 - PyScript ⚠️
