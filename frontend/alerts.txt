@@ -1,0 +1,1 @@
+Here I hosted any projects using PyScript (our framework for client-side)
