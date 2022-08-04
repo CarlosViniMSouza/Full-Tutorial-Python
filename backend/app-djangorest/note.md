@@ -1,0 +1,1 @@
+### Follow the process and command in QuickStart: https://www.django-rest-framework.org/#quickstart
