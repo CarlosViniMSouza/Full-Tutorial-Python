@@ -1,4 +1,4 @@
 git add .
-git commit -m "backend: django-rest application -> done"
+git commit -m "backend: numpy study -> started"
 git push
 git status
