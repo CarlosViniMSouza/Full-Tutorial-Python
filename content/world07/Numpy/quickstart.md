@@ -21,7 +21,7 @@ There are several ways to create arrays.
 For example, you can create an array from a regular Python list or tuple using the `array` function. The type of the resulting array is deduced from the type of the elements in the sequences.
 
 ```python
-mat02 = np.array(
+matrix = np.array(
     [[2, 4, 5],
      [1, 0, -2],
      [3, -2, 1]]
@@ -38,6 +38,49 @@ When you print an array, NumPy displays it in a similar way to nested lists, but
 
 ° the rest are also printed from top to bottom, with each slice separated from the next by an empty line.
  
+```python
+matrix = np.arange(4) # one-dimensional
+print(matrix)
+
+matrix = np.arange(8).reshape(4, 2) # two-dimensional
+print(matrix)
+
+matrix = np.arange(30).reshape(3, 5, 2) # three-dimensional
+print(matrix)
+```
+
+## Basic Operations
+
+Unlike in many matrix languages, the product operator `*` operates elementwise in NumPy arrays. The matrix product can be performed using the `@` operator (in python >=3.5) or the `dot` function or method:
+
+```python
+mat01 = np.array([
+    [5, 4],
+    [3, 6]
+])
+
+mat02 = np.array([
+    [0, 1],
+    [2, -1]
+])
+
+print(mat01 * mat02, "\n") # elementwise product
+print(mat01 @ mat02, "\n") # matrix product (as we know)
+print(mat01.dot(mat02), "\n") # another way matrix product
+```
+
+Some operations, such as += and *=, act in place to modify an existing array rather than create a new one.
+
+```python
+mat01 += mat02
+print(mat01)
+
+mat02 *= mat01
+print(mat02)
+```
+
+By default, these operations apply to the array as though it were a list of numbers, regardless of its shape. However, by specifying the `axis` parameter you can apply an operation along the specified axis of an array:
+
 ```python
 
 ```
