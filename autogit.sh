@@ -1,4 +1,4 @@
 git add .
-git commit -m "backend: numpy study -> started"
+git commit -m "world07: Numpy -> Basic Operations"
 git push
 git status

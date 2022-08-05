@@ -19,3 +19,14 @@ mat02 = np.array(
 
 print("\nThe Matrix 02: \n", mat02)
 print("Scale Matrix 02: ", mat02.size)
+
+# Printing Arrays #
+
+mat03 = np.arange(4) # one-dimensional
+print(mat03)
+
+mat03 = np.arange(8).reshape(4, 2) # two-dimensional
+print(mat03)
+
+mat03 = np.arange(30).reshape(3, 5, 2) # three-dimensional
+print(mat03)

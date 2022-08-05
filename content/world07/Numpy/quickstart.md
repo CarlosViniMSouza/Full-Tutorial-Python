@@ -27,3 +27,17 @@ mat02 = np.array(
      [3, -2, 1]]
 )
 ```
+
+## Printing Arrays
+
+When you print an array, NumPy displays it in a similar way to nested lists, but with the following layout:
+
+° the last axis is printed from left to right,
+
+° the second-to-last is printed from top to bottom,
+
+° the rest are also printed from top to bottom, with each slice separated from the next by an empty line.
+ 
+```python
+
+```
