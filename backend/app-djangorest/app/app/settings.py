@@ -20,7 +20,7 @@ BASE_DIR = Path(__file__).resolve().parent.parent
 # See https://docs.djangoproject.com/en/4.1/howto/deployment/checklist/
 
 # SECURITY WARNING: keep the secret key used in production secret!
-SECRET_KEY = 'django-insecure-zz*^$*oz__kuo+^2jojlng*jp035fd9_s%f(&o_yq$6*+cqc(='
+SECRET_KEY = 'django-insecure-1+#7%0uh9wsx(iv6#ai2r&9=ekx41ar-rf+ogmsd#i4wy47&-$'
 
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
@@ -101,9 +101,8 @@ AUTH_PASSWORD_VALIDATORS = [
 ]
 
 REST_FRAMEWORK = {
-    "DEFAULT_PERMISSION_CLASSES": [
-        "rest_framework.permissions.DjangoModelPermissionsOrAnonReadOnly"
-    ]
+    'DEFAULT_PAGINATION_CLASS': 'rest_framework.pagination.PageNumberPagination',
+    'PAGE_SIZE': 10
 }
 
 

@@ -1,5 +1,5 @@
 git add .
-git commit -m "world07: Pandas -> Viewing Data"
+git commit -m "backend: app-djangorest -> restarted application"
 git push
 git status
 
