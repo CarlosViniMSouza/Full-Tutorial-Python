@@ -1,5 +1,5 @@
 git add .
-git commit -m "backend: app-djangorest -> restarted application"
+git commit -m "backend: app-restdjango -> new app added"
 git push
 git status
 
