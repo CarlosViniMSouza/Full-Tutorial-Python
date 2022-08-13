@@ -1,6 +1,4 @@
 git add .
-git commit -m "content: Exemp. Scatter -> add"
+git commit -m "content: World 09 started"
 git push
 git status
-
-# link from next topic: https://matplotlib.org/stable/plot_types/basic/bar.html
