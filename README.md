@@ -86,7 +86,7 @@ In this repository, I stored all my knowledge in Python language. Allow below wh
 - multiprocessing ⚡
 ```
 
-## World 07
+## World 07 (Libs for Analysis & Data Science)
 
 ```
 - Modules Data Science 🔬
@@ -100,7 +100,7 @@ In this repository, I stored all my knowledge in Python language. Allow below wh
 - TensorFlow 🦾 🧠
 ```
 
-## World 08
+## World 08 (The Python on Web)
 
 ```
 - Frameworks Web 🌐
@@ -110,7 +110,7 @@ In this repository, I stored all my knowledge in Python language. Allow below wh
 - PyScript ⚠️
 ```
 
-## World 09
+## World 09 (Python applied in D.S.A.)
 
 ```
 - Data Structures in Python 🐉
@@ -123,6 +123,6 @@ In this repository, I stored all my knowledge in Python language. Allow below wh
 - Hash Tables 📑
 ```
 
-### *The Worlds 07, 08 and 09 I created from 0; The others were build with different materials!*
+### *The Worlds 07, 08 and 09 I created from 0, with different materials!*
 
-### Please, contribute to my work by leaving a ⭐️ !!  
+**Please, contribute to my work by leaving a ⭐️**
