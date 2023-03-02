@@ -10,9 +10,9 @@ In this repository, I stored all my knowledge in Python language. Allow below wh
 ✅ - variables ✘
 ✅ - multiple assignment 🔠
 ✅ - string methods 〰️
-📑 - type cast 💱
-- user input ⌨️
-- math functions 🧮
+✅ - type cast 💱
+✅ - user input ⌨️
+📑 - math functions 🧮
 - string slicing ✂️
 - if statements 🤔
 - logical operators 🔣

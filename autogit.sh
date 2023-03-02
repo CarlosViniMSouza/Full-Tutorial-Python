@@ -1,6 +1,6 @@
 git add .
-git commit -m "World 1 -> user input"
+git commit -m "World 1 -> Math Functions"
 git push -u origin main
 git status
 
-# stop moment -> 30:16
+# stop moment -> 36:53

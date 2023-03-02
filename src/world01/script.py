@@ -1,4 +1,4 @@
-## START of multiple assignment
+## START of multiple assignment ##
 
 class MultipleAssignment:
     # way 1:
@@ -6,18 +6,18 @@ class MultipleAssignment:
     age = 22
     status = True
 
-    print(f"\nHy, I'm {name}, my age is {age}, and my student status is {status}")
+    print(f"\nHy, I'm {name}, my old age is {age}, and my student status is {status}")
     # output: Hy, I'm Carlos, my age is 22, and my student status is True
 
     # way 2:
     name, age, status = "Carlos Souza", 20, False
 
-    print(f"Hy, I'm {name}, my age is {age}, and my student status is {status}")
+    print(f"Hy, I'm {name}, my old age is {age}, and my student status is {status}")
     # output: Hy, I'm Carlos Souza, my age is 20, and my student status is False
 
-## END of multiple assignment
+## END of multiple assignment ##
 
-## START of String Methods
+## START of String Methods ##
 
 class StringMethods:
     name = "CarlosViniMSouza"
@@ -36,9 +36,9 @@ class StringMethods:
     print(f"Replacing M by Z = {name.replace('M', 'Z')}")
     # output: CarlosViniZSouza
 
-## END of String Methods
+## END of String Methods ##
 
-## START of Type Cast
+## START of Type Cast ##
 
 # type casting -> convert the data for other type data!
 
@@ -56,6 +56,31 @@ class TypeCast:
     print(f"Converting type06 for integer = {type(int(type06))}")
     # output: Converting type01 for string = <class 'int'>
 
-## END of Type Cast
+## END of Type Cast ##
 
-## START of User Input
+## START of User Input ##
+
+"""
+WARNING: ALL and any data inserted in typing how to string!!
+        You should do type cast if need a specific type data
+        It can be so mush necessary in some situations
+"""
+
+class UserInput:
+    # Example for convert 'str' in 'float'
+    salary = float(input("\nMy salary: "))
+
+    # print("The salary is " + salary)
+    # --> TypeError: can only concatenate str (not "float") to str
+
+    # To make it work, use 'str()'
+
+    print("The salary is " + str(salary))
+    # output: The salary is 1443.2
+
+    print(f"The salary is a variable of type {type(salary)}")
+    # output: The salary is a variable of type <class 'float'>
+
+## END of User Input ##
+
+## START of Math Functions ##

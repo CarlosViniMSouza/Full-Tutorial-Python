@@ -1,2 +1,0 @@
-Here be hosted any projects using PyScript (our framework for client-side)
-And i want to try some things new.
