@@ -1,6 +1,6 @@
 git add .
-git commit -m "restarting project"
+git commit -m "World 1 -> type cast"
 git push -u origin main
 git status
 
-# stop moment -> 25:04 (String methods)
+# stop moment -> 25:20

@@ -7,10 +7,10 @@ In this repository, I stored all my knowledge in Python language. Allow below wh
 ## World 01
 
 ```
-- variables ✘
-- multiple assignment 🔠
-- string methods 〰️
-- type cast 💱
+✅ - variables ✘
+✅ - multiple assignment 🔠
+✅ - string methods 〰️
+📑 - type cast 💱
 - user input ⌨️
 - math functions 🧮
 - string slicing ✂️
