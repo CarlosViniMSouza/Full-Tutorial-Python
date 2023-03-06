@@ -1,4 +1,4 @@
-class nestedLoops:  
+class NestedLoops:  
     rows = int(input("Insert number of rows: "))        # input -> 5
     columns = int(input("Insert number of columns: "))  # input -> 5
 

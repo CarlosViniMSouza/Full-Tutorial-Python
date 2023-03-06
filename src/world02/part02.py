@@ -1,15 +1,11 @@
 # 2D Lists -> A list of lists
 
 class Lists2D:
-    my2DList = [
-        ['element', 'object'],
-        ['people', 'code'],
-    ]
+    my2DList = [['element', 'object'], ['people', 'code'], ['Python', 'JS']]
 
     # Using some methods:
 
     # 1. append()
-    my2DList.append(['Python', 'JS'])
 
     print(my2DList)
     # output: [['element', 'object'], ['people', 'code'], ['Python', 'JS']]

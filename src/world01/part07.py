@@ -1,11 +1,11 @@
 class IfStatement:
-    choose = "student" # 'student', or 'proof', or 'collaborator'
+    choose = "student"  # 'student', or 'proof', or 'collaborator'
 
-    if (choose == "student"):
+    if choose == "student":
         print("\nYou are a student")
-    elif (choose == "proof"):
+    elif choose == "proof":
         print("\nYou are a proof")
-    elif (choose == "collaborator"):
+    elif choose == "collaborator":
         print("\nYou are a collaborator")
     else:
         print("Error!")

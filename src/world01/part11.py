@@ -1,9 +1,9 @@
-class loopSwitches:
+class LoopSwitches:
     # switch 'break'
     for i in range(1, 15, 3):
         print(f"Current number: {i}")
         
-        if (i >= 10):
+        if i >= 10:
             break
         """
         # output:
@@ -19,7 +19,7 @@ class loopSwitches:
     for i in range(1, 15, 3):
         print(f"Current number: {i}")
         
-        if (i >= 10):
+        if i >= 10:
             continue
         """
         # output:
@@ -36,7 +36,7 @@ class loopSwitches:
     for i in range(1, 15, 3):
         print(f"Current number: {i}")
         
-        if (i >= 10):
+        if i >= 10:
             pass
         """
         Current number: 1

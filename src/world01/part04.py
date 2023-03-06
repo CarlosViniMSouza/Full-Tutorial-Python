@@ -1,8 +1,9 @@
 """
 WARNING: ALL and any data inserted in typing how to string!!
-        You should do type cast if need a specific type data
+        You should do type cast if you need a specific type data
         It can be so mush necessary in some situations
 """
+
 
 class UserInput:
     # Example for convert 'str' in 'float'

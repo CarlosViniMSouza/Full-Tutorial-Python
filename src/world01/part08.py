@@ -3,7 +3,7 @@ class WhileLoops:
 
     print("\n")
 
-    while (count > 0):
+    while count > 0:
         print(f"Your value count: {count}")
         count -= 1
     

@@ -1,4 +1,4 @@
-class forLoops:
+class ForLoops:
     myList = ['elem01', 'elem02', 'elem03']
     myString = "string!"
 

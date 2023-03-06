@@ -1,5 +1,6 @@
 import math
 
+
 class MathFunctions:
     pi, num1, num2 = 3.141592, 6, 15
 
