@@ -12,21 +12,21 @@ In this repository, I stored all my knowledge in Python language. Allow below wh
 ✅ - string methods 〰️
 ✅ - type cast 💱
 ✅ - user input ⌨️
-📑 - math functions 🧮
-- string slicing ✂️
-- if statements 🤔
-- logical operators 🔣
-- while loops 🔄
-- for loops ➰
-- nested loops ➿
-- keywords: break, continue, pass ⛔
+✅ - math functions 🧮
+✅ - string slicing ✂️
+✅ - if statements 🤔
+✅ - logical operators 🔣
+✅ - while loops 🔄
+✅ - for loops ➰
+✅ - nested loops ➿
+✅ - keywords: break, continue, pass ⛔
 ```
 
 ## World 02
 
 ```
-- lists 🧾
-- 2D lists 📜
+✅ - lists 🧾
+📑 - 2D lists 📜
 - tuples 📄
 - sets 🍴
 - dictionaries 📖
