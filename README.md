@@ -30,7 +30,7 @@ In this repository, I stored all my knowledge in Python language. Allow below wh
 ✅ - tuples 📄
 ✅ - sets 🍴
 ✅ - dictionaries 📖
-📑 - indexing 📑
+✅ - indexing 📑
 - functions 📞
 - return statement 🔙
 - keyword arguments 🔑
