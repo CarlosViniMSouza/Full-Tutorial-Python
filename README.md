@@ -31,8 +31,8 @@ In this repository, I stored all my knowledge in Python language. Allow below wh
 ✅ - sets 🍴
 ✅ - dictionaries 📖
 ✅ - indexing 📑
-- functions 📞
-- return statement 🔙
+✅ - functions 📞
+✅ - return statement 🔙
 - keyword arguments 🔑
 - nested function calls 🖇️
 - variable scope 🔬
