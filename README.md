@@ -28,9 +28,9 @@ In this repository, I stored all my knowledge in Python language. Allow below wh
 ✅ - lists 🧾
 ✅ - 2D lists 📜
 ✅ - tuples 📄
-📑 - sets 🍴
-- dictionaries 📖
-- indexing 📑
+✅ - sets 🍴
+✅ - dictionaries 📖
+📑 - indexing 📑
 - functions 📞
 - return statement 🔙
 - keyword arguments 🔑

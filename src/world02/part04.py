@@ -26,7 +26,7 @@ class SetExample:
 
     print(mySet)
 
-    # 4. intersection() -> check if a element in other set
+    # 4. intersection() -> check if an element in other set
     result = mySet.intersection(lastSet)
 
     print(result)
