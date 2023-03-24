@@ -11,8 +11,13 @@ class FunctionsTest:
     def returnDoubleAge(self):
         return f"The old age duplicated is {self.age * 2}"
 
+    def returnJob(self, info):
+        return f"Your job is {info}"
+
     
 people = FunctionsTest()
 
 people.showHelloToUser()
+
 print(people.returnDoubleAge())
+print(people.returnJob("Software Engineer"))

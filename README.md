@@ -33,7 +33,7 @@ In this repository, I stored all my knowledge in Python language. Allow below wh
 ✅ - indexing 📑
 ✅ - functions 📞
 ✅ - return statement 🔙
-- keyword arguments 🔑
+✅ - keyword arguments 🔑
 - nested function calls 🖇️
 - variable scope 🔬
 - *args 📦
